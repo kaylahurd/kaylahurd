@@ -12,7 +12,7 @@ I’ve since built full-stack apps, mobile apps, and AI-powered tools — always
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 - **Inventory Management System** – Full-stack **React + Flask** app to track and manage equipment with authentication, live updates, historical data, and CSV export matching a company spreadsheet.  
 - **Calorie Tracker iOS App** – Built with **Swift/SwiftUI** using **Gemini’s APIs** to store ingredients, create meals with serving sizes, and auto-calculate calories.  
 - **✈Flight Tracker App** – **React** app using the **AviationStack API** to search flights by number or route with real-time updates.  
@@ -20,7 +20,7 @@ I’ve since built full-stack apps, mobile apps, and AI-powered tools — always
 
 ---
 
-## 🛠 Tech & Tools  
+## Tech & Tools  
 **Languages:** Python, JavaScript, Swift, HTML/CSS, C#, C  
 **Frameworks & Libraries:** React.js, Flask, Supabase, SwiftUI  
 **Tools:** GitHub, Postman, Figma, Xcode, VS Code, Azure DevOps  
@@ -28,7 +28,7 @@ I’ve since built full-stack apps, mobile apps, and AI-powered tools — always
 ---
 
 ## 🎯 Goals  
-I’m working toward becoming a **Software Engineer** where I can build useful, well-designed products, collaborate with innovative teams, and keep learning every day.
+I’m working toward becoming a **Software Engineer** where I can build useful, well-designed products, collaborate with innovative teams, and continue to learn every day!
 
 ---
 
