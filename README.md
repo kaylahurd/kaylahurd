@@ -6,7 +6,7 @@ Aspiring **Software Engineer** | Graduation: **December 2025**
 ---
 
 ## 🌟 About Me  
-I’m passionate about creating practical, impactful tools and learning new technologies. My journey started with robotics in elementary school, where I designed and programmed competition robots for years. That experience taught me problem-solving, teamwork, and how hardware and software work together.  
+I’m passionate about creating practical, impactful tools and learning new technologies. My journey started with robotics in elementary school, where I designed and programmed competition robots for 10 years. That experience taught me problem-solving, teamwork, and how hardware and software work together.  
 
 I’ve since built full-stack apps, mobile apps, and AI-powered tools — always with a focus on clean design and real-world usability.  
 
